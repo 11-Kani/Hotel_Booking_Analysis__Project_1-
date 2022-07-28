@@ -51,3 +51,6 @@ We observed rate of cancellation is higher in City hotel.In year 2015 rate of ca
 
 3.Average_daily_Rate:-
 We observed: For resort hotels, the average daily rate is more expensive during August- September.For city hotels, the average daily rate is more expensive from May-August .Prices of resort hotel are much higher. Prices of city hotel do not fluctuate that much.
+
+4.Observatin from corelation:
+1-->Full_stay length and lead time have slight correlation. This may means that for longer hotel stays people generally plan little before the the actual arrival.2--> Average_daily_rate is slightly correlated with Total_members, which makes sense as more no. of people means more revenue, therefore more Average_daily_rate.
